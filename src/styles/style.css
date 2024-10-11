@@ -1,0 +1,24 @@
+/* Basic styles to make the app look clean */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+.container {
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.search-container,
+.video-item {
+  background-color: #fff;
+}
+
+button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+}
